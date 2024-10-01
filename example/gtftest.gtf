@@ -1,0 +1,5 @@
+chr1	ENSEMBL	gene	4	8	.	+	.	gene_id "foo1"; transcript_id "foo1"; gene_type "pseudogene"; gene_status "KNOWN"; gene_name "foo1"; transcript_type "pseudogene"; transcript_status "KNOWN"; transcript_name "foo1"; level 2;
+chr1	ENSEMBL	gene	5	9	.	-	.	gene_id "foo2"; transcript_id "foo2"; gene_type "pseudogene"; gene_status "KNOWN"; gene_name "foo2"; transcript_type "pseudogene"; transcript_status "KNOWN"; transcript_name "foo2"; level 2;
+chr1	ENSEMBL	gene	10	100	.	+	.	gene_id "foo3"; transcript_id "foo3"; gene_type "pseudogene"; gene_status "KNOWN"; gene_name "foo3"; transcript_type "pseudogene"; transcript_status "KNOWN"; transcript_name "foo3"; level 2;
+chr1	ENSEMBL	gene	90	100	.	+	.	gene_id "foo4"; transcript_id "foo4"; gene_type "pseudogene"; gene_status "KNOWN"; gene_name "foo4"; transcript_type "pseudogene"; transcript_status "KNOWN"; transcript_name "foo4"; level 2;
+chr1	ENSEMBL	gene	190	200	.	+	.	gene_id "foo5"; transcript_id "foo5"; gene_type "pseudogene"; gene_status "KNOWN"; gene_name "foo5"; transcript_type "pseudogene"; transcript_status "KNOWN"; transcript_name "foo5"; level 2;

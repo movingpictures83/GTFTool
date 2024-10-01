@@ -1,0 +1,13 @@
+5 genes found.
+Starting chromosome chr1 with 5 genes.
+>foo1|foo1|-|-|foo1|foo1|5|
+CCGAA
+>foo2|foo2|-|-|foo2|foo2|5|
+ATTCG
+>foo3|foo3|-|-|foo3|foo3|91|
+CCGAATCCGAATCCGAATCCGAATCCGAATCCGAATCCGAATCCGAATCCGAATCCGAATCCGAATCCGA
+ATCCGAATCCGAATCCGAATC
+>foo4|foo4|-|-|foo4|foo4|11|
+GAATCCGAATC
+>foo5|foo5|-|-|foo5|foo5|11|
+CCGAATCCGAA

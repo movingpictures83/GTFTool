@@ -1,0 +1,2 @@
+Prefix plugins/GTFTool/example/
+Plugin GTFTool inputfile parameters.txt outputfile output.genes.txt

@@ -1,0 +1,2 @@
+fastafile	gtftest.fa
+gtffile	gtftest.gtf
